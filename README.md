@@ -1,7 +1,17 @@
 # E-commerce Application
 
+## Landing Page
+```bash
+Landing Page with items displayed
+```
+
 ![E-Commerce Page](ECommerce-Page.JPG)
 
+
+## Checkout Page
+```bash
+Cart Page - Checkout and Payment Options 
+```
 ![Checkout Page](Checkout-Page.JPG)
 
 # EcommApp
